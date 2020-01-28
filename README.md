@@ -25,5 +25,5 @@
 #####
                  python contactinfo.py
 
-### Note : In contactinfo.py at line no. 43 and 44, Enter your email id and password. so that mail will be sent from your email id.
+#### Note : In contactinfo.py at line no. 43 and 44, Enter your email id and password. so that mail will be sent from your email id.
 
